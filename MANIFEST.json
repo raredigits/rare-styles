@@ -1,14 +1,14 @@
 {
   "name": "rare-styles",
-  "version": "v0.7.0",
+  "version": "v0.7.1",
   "files": {
     "docs/Changelog.md": {
-      "bytes": 69323,
-      "sha256": "ebd85d127d5383d06ceec44bbc970d4fc9b4c0d3952fc87d5a03939db9c600fe"
+      "bytes": 74801,
+      "sha256": "c0e63a04479bcd4c902f5fb08858bcc194947c0dc93938c02ea294eb04c02d88"
     },
     "docs/MIGRATION.md": {
-      "bytes": 10879,
-      "sha256": "1afd064bf293469b466808b50f99653b35d225eed5b4460c5f1b0a76c9a33d63"
+      "bytes": 13563,
+      "sha256": "6d59f6e2708772e6dbd6c029d4375e9717ccfb110abfeca25dfa2bb578cbb6ad"
     },
     "docs/SCRIPTS_CONTRACT.md": {
       "bytes": 17916,
@@ -1351,8 +1351,8 @@
       "sha256": "456188c13a4b5c8d7c590186aedcaf0680adf2850575933267c98c125e266d96"
     },
     "modules/_index.scss": {
-      "bytes": 350,
-      "sha256": "9e7809013696a4745f8f9293bb664028b6fd4e2ef16d740b405afa0ebcb28d80"
+      "bytes": 459,
+      "sha256": "893415456f60f7826a1e9cb73875aa67f20b4976ef50316ef03972566123f58b"
     },
     "modules/align/_align.scss": {
       "bytes": 649,
@@ -1411,8 +1411,8 @@
       "sha256": "5272bfca2373c25a8826893ada361e5a11514cf0eb5fa149e651e0f50bb30860"
     },
     "modules/decorations/_icons.scss": {
-      "bytes": 11155,
-      "sha256": "b6fbaa3db16353e9a30656eeefe725b30999d1e28456bfc83156bdd74a9a809b"
+      "bytes": 11088,
+      "sha256": "0deee440f26920ec3764e95ee94a408bef8684b0214b3b2a980e0c2bdbad9b69"
     },
     "modules/decorations/_index.scss": {
       "bytes": 471,
@@ -1459,8 +1459,8 @@
       "sha256": "70b0eb1a71d80f0b4f00307309c678e404b430cfc0f94b43ac8e0ae5d22f7060"
     },
     "modules/layout/_spacing.scss": {
-      "bytes": 6342,
-      "sha256": "e927983de9c69cca52c6341f78f8266ce237dd3493021c79b3903bae480e2ca9"
+      "bytes": 6544,
+      "sha256": "9751ace9ba435e0a500da8fcb2f34e611f2325894048a1b8a9310aa7d1f52e3e"
     },
     "modules/navigation/_index.scss": {
       "bytes": 102,
@@ -1511,8 +1511,8 @@
       "sha256": "284eaeef649d7c93075ec0d26a45f88984f1d54dd0280697e8586fb9e422b891"
     },
     "modules/special/_cookie-consent.scss": {
-      "bytes": 2067,
-      "sha256": "d4b5502ea35fd455351690781ed10630a9e4405bcf3607c5ff117ee5dda71278"
+      "bytes": 1898,
+      "sha256": "506d1c32900f92c0f48be8c51e40d49001133bef8d2a010f6bde521de32b327b"
     },
     "modules/special/_index.scss": {
       "bytes": 159,
@@ -1534,37 +1534,41 @@
       "bytes": 225,
       "sha256": "174d1d890e8195dda4ade8d24dc17d32d82c42615cbf78a1755121ba1cd9f9c5"
     },
+    "modules/typography/_figures.scss": {
+      "bytes": 2895,
+      "sha256": "14e37b94e93609b2dc4a0e64d59c03fc0d8bdb78ffba7e2a05ca3bd5f5c2a71a"
+    },
     "modules/typography/_font-faces.scss": {
       "bytes": 10974,
       "sha256": "a39709840b83c802502005e877b47bc8598023edec4db3e5e7dc0a31512bc573"
     },
     "modules/typography/_fonts.scss": {
-      "bytes": 2217,
-      "sha256": "e732773c08c8337a41537146fdc59c915575dd6e8da660ab1f5acee5d4ce32c5"
+      "bytes": 2159,
+      "sha256": "730cb595b72032a5d3aaa084e2ebffba7c09dc46675bc7dd7f0f27a2f0bb3198"
     },
     "modules/typography/_headings.scss": {
       "bytes": 808,
-      "sha256": "aa6a36570a948140ec2cc68f80e879ccc240e05bb7f14f3086f02b422d906067"
+      "sha256": "18ae445ffcfd99c7e93cc69daaf6fa65e47c241e0273af3b485729ba4180f82e"
     },
     "modules/typography/_index.scss": {
-      "bytes": 163,
-      "sha256": "29b4786645cc810607649139cdd2528b8303e088cd3addd33f8c626b43fc11a1"
+      "bytes": 179,
+      "sha256": "f75bceb79e316e89734896556a8a264e7ef8fe772a8b825a4f6a6caed7d155a9"
     },
     "modules/typography/_lists.scss": {
-      "bytes": 8937,
-      "sha256": "133da541b8a7e7a8d36bcc079481fc2e1d5d276d2e4054815f67a4641399fcea"
+      "bytes": 8999,
+      "sha256": "df48165a13969bb3036cb324ff8c0770563c942fb7b999845a01c915e90c136f"
     },
-    "modules/typography/_sidenotes.scss": {
-      "bytes": 3771,
-      "sha256": "5a6409e535c86c0088a35b2e5543268346d1690a015f074174dd17779271d8b0"
+    "modules/typography/_notes.scss": {
+      "bytes": 3978,
+      "sha256": "d5923381fbe42855a63661cdce1d73d4f8afb00615b84f6fa545eb28b7af7e54"
     },
     "modules/typography/_tables.scss": {
       "bytes": 3613,
       "sha256": "6be3bd5cd11374cf17ad266a0c6248c19a3880811902c9b2c5d69f102ea6e7cc"
     },
     "modules/typography/_text-content.scss": {
-      "bytes": 9497,
-      "sha256": "4e2633754c842a0a5810c1381abbdc5fd8d06ff83c0942221742f05b8fee7a48"
+      "bytes": 9768,
+      "sha256": "29a3deaad0cb9353ec8a703a59806eaddabdff8f11cdbdb6bfdc16aa4e6c6950"
     },
     "modules/utilities/_a11y.scss": {
       "bytes": 2158,
@@ -1575,12 +1579,16 @@
       "sha256": "0453d1f6967f500b2cf46d58569dc436fe02175dfd9616303f0e012c34d7253c"
     },
     "modules/utilities/_display.scss": {
-      "bytes": 699,
-      "sha256": "56d8b8bfce0f5cfe0188e89981249903e2344a43a53df07e266c603462ff19c8"
+      "bytes": 656,
+      "sha256": "f25ccc90d97977b9ca900c6585c3883b5966d155b45a97e908ab7c6b229ca01d"
     },
     "modules/utilities/_index.scss": {
       "bytes": 56,
       "sha256": "0cae87f4a8eb29be22321bee9376b3c42c16da36616880a572bce9197bce3f4d"
+    },
+    "modules/utilities/_print.scss": {
+      "bytes": 2126,
+      "sha256": "72d22fccd170835d4ecbf42f3bf1c49179edc9be10d8daff3aab2ac734d89429"
     },
     "modules/utilities/_resets.scss": {
       "bytes": 624,
@@ -1591,20 +1599,20 @@
       "sha256": "2e782dc6b41015b2049540768cfbda08817a733b3e39f588b90d0815fd6a1604"
     },
     "rare.css": {
-      "bytes": 493745,
-      "sha256": "ae0fe01bc4afd9e0332abfc4a924baf297fae0dd2fbf1b616dcf7df4146908b2"
+      "bytes": 497339,
+      "sha256": "560457b78db014e17a496529f10a1f183b8424dca9dc1afeaeea6652e47735a7"
     },
     "rare.css.map": {
-      "bytes": 162640,
-      "sha256": "55c4258f5ca954a9107201c529ce931c1058f47d1b7ddd9629d569cefd1d9da3"
+      "bytes": 163667,
+      "sha256": "7cf71961517354f065a9cff51eb30c7408e7e71c3fa503fc0fa8409936cd4f6a"
     },
     "rare.min.css": {
-      "bytes": 418045,
-      "sha256": "28c5e2b68938f52cee69b8ac1d2f6b9106d3d3dcbf46a44452d7ea4ee0b835d1"
+      "bytes": 421116,
+      "sha256": "0557a2e8847c897fd1d4f65dacbe7a88107982efa6794f946df2681061a529fa"
     },
     "rare.min.css.map": {
-      "bytes": 126909,
-      "sha256": "ac60eb58bc7832b7e8b628e545c8ed021b5e25fa9f12c917e236e787d2b5808b"
+      "bytes": 127689,
+      "sha256": "7b1f753b389a3a5bd761883917063ee7d21c0c70bd62d0ec7c11947ba448543b"
     },
     "rare.scss": {
       "bytes": 111,
